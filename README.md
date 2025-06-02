@@ -9,9 +9,12 @@ This repository contains data files and the main codebase for processing interme
 .xlsx files — Excel files containing intermediate calculation results, final output tables, and matrices used for reporting or visualization.  
 
 Clustering Results:  
+8_klasters.xlsx: Contains results from clustering with 8 clusters.  
 10_klasters.xlsx: Contains results from clustering with 10 clusters.  
 12_klasters.xlsx: Contains results from clustering with 12 clusters.  
-8_klasters.xlsx: Contains results from clustering with 8 clusters.  
+8_klasters_ne_summa.xlsx: Contains results from clustering with 8 clusters for each individual client.  
+10_klasters_ne_summa.xlsx: Contains results from clustering with 10 clusters for each individual client.  
+12_klasters_ne_summa.xlsx: Contains results from clustering with 12 clusters for each individual client.  
 EM_8_klasters_ne_summa.xlsx: Clustering results using Expectation-Maximization (EM) algorithm with 8 clusters (excluding sum metrics).  
 association_rules.xlsx: Contains association rules derived from the dataset.  
 клиенты_c_кластерами_EM.xlsx: Customer data clustered using the EM algorithm.  
